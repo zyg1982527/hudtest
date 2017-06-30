@@ -39,7 +39,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>The Title To Present To The User installing the app</string>
+				<string>HUD导航演示Demo</string>
 			</dict>
 		</dict>
 	</array>
